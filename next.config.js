@@ -9,4 +9,14 @@ const nextConfig = {
   out: 'build', // Make sure this is correctly configured
 };
 
-module.exports = nextConfig;
+module.exports = {nextConfig,
+  webpack(config) {
+    config.module.rules.push({
+      test: /\.svg$/i,
+      issuer: /\.[jt]sx?$/,
+      use: ['@svgr/webpack'],
+    })
+    return config
+  },
+
+}
