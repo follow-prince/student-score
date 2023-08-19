@@ -35,7 +35,7 @@ We are developing a student management webapp. For this purpose, we have named t
 
 ## Demo
 
-[View Demo](http://stundent-score.vercel.app)
+[View Demo](http://stundentscore.vercel.app)
 
 ## Table of Contents
 
