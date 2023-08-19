@@ -7,11 +7,9 @@
 ![GitHub Top Language](https://img.shields.io/github/languages/top/follow-prince/student-score?color=7f0c7f&style=flat-square)
 ![GitHub Issues](https://img.shields.io/github/issues/follow-prince/student-score?color=098f76&label=GitHub%20Issues&style=flat-square)
 ![GitHub Pull Erequests](https://img.shields.io/github/issues-pr/follow-prince/student-score?color=2c324f&label=GitHub%20Pull%20Requests&style=flat-square)
-<!-- ![GitHub Latest Release](https://img.shields.io/github/v/release/follow-prince/student-score?color=f5426f&label=Latest%20Release&style=flat-square) -->
 ![GitHub Total Downloads](https://img.shields.io/github/downloads/follow-prince/student-score/total?color=4a2600&label=Total%20Downloads&style=flat-square)
-
 ![Website Status](https://img.shields.io/website?down_message=Down%20%26%20Offline&label=Website%20Status&up_message=Up%20%26%20Online&url=https%3A%2F%2Fstudentscore.vercel.app)
-
+<!-- ![GitHub Latest Release](https://img.shields.io/github/v/release/follow-prince/student-score?color=f5426f&label=Latest%20Release&style=flat-square) -->
 ## Design
 
 <div>
